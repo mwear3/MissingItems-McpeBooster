@@ -1,6 +1,6 @@
-name: MissingItems
+name: CustomBanners
 main: MissingItems\MissingItems
-version: 1.0.0
-api: 3.0.0-ALPHA11
+version: 1.0.1
+api: 3.1.0
 author: McpeBooster
-website: twitter.com/McpeBooster
+website: ???
